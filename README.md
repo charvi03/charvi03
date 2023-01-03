@@ -7,7 +7,7 @@ Web Developer
 A passionate Android developer from India. And currently working on my skills to become a Software developer.
 
 * ✉️  You can contact me at [charvikhurana01@gmail.com](mailto:charvikhurana01@gmail.com)
-* 🧠  I'm learning Android Jetpack Compose
+* 🧠  I'm learning Web development.
 
 ### Skills
 
