@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -----------------
 
-A passionate Android developer from India. And currently working on my skills to become a Software developer.
+A passionate web developer from India. And currently working on my skills to become a Software developer.
 
 * ✉️  You can contact me at [charvikhurana01@gmail.com](mailto:charvikhurana01@gmail.com)
 * 🧠  I'm learning Web development.
