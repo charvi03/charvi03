@@ -17,6 +17,7 @@ Here to learn, share, and grow alongside the amazing developer community.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/charvi03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<a href="https://linkedin.com/in/charvi-khurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charvi khurana" height="30" width="40" /></a>
 
 ### Badges
 
