@@ -7,7 +7,7 @@ Full Stack Developer
 Always learning, always coding, and always open for collaboration.
 Here to learn, share, and grow alongside the amazing developer community.
 * ✉️  You can contact me at [charvikhurana0310@gmail.com](mailto:charvikhurana0310@gmail.com)
-* 🧠  Currently learning AI/ML.
+* 🧠  AI/ML Explorer
 
 ### Skills
 
