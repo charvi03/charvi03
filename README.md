@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -----------------
 
-Always learning, always coding, and always open for collaboration.
+Always learning, always coding, and always open to collaboration.
 Here to learn, share, and grow alongside the amazing developer community.
 * ✉️  You can contact me at [charvikhurana0310@gmail.com](mailto:charvikhurana0310@gmail.com)
 * 🧠  AI/ML Explorer
-* 🌱 I’m currently a Software developer.
+* 💬  Ask me about Web Development, Java, Python, Machine Learning and Data Analytics
+* 🌱  I’m currently a Software developer.
 
 ### Skills
 
