@@ -16,7 +16,7 @@
 
 -----------------
 
-###🌐 Connect with Me  
+## 🌐 Connect with Me  
 <div align="center">  
   <a href="https://www.github.com/charvi03" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" />
@@ -34,7 +34,7 @@
 
 -----------------
 
-###🏆 My GitHub Stats  
+## 🏆 My GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=charvi03&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charvi03&theme=blue-green&hide_border=false)<br/>
