@@ -36,10 +36,10 @@
 ### 🏆 My GitHub Stats  
 <div align="center">  
   <a href="http://www.github.com/charvi03">
-    <img src="https://github-readme-stats.vercel.app/api?username=charvi03&show_icons=true&theme=radical&count_private=true" alt="Charvi's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=charvi03&show_icons=true&theme=date_night&count_private=true" alt="Charvi's GitHub stats" />
   </a>
   <a href="http://www.github.com/charvi03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charvi03&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charvi03&theme=date_night" alt="GitHub Streak" />
   </a>
   <a href="http://www.github.com/charvi03">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi03&langs_count=10&layout=compact&theme=date_night" alt="Top Languages" />
