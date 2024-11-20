@@ -45,11 +45,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi03&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div> 
-### 💡 Fun Section  
+-----------------
 <div align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 </div> 
----
-
+-----------------
 Let's code, innovate, and build together!  
 💻✨ _**Charvi Khurana**_
