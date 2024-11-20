@@ -2,7 +2,7 @@
 ### I'm Charvi Khurana 🌟  
 ---
 **A passionate Full Stack Developer dedicated to crafting elegant, efficient, and impactful web applications.**
----
+
 <div align="center">
   <table>
     <tr>
