@@ -42,13 +42,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=charvi03&theme=radical" alt="GitHub Streak" />
   </a>
   <a href="http://www.github.com/charvi03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi03&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charvi03&langs_count=10&layout=compact&theme=date_night" alt="Top Languages" />
   </a>
 </div> 
 -----------------
 <div align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 </div> 
------------------
-Let's code, innovate, and build together!  
-💻✨ _**Charvi Khurana**_
+---
+## 🌟 **Fun Fact**
+_I'm fueled by caffeine, code, and curiosity! Let’s create something amazing together!_
