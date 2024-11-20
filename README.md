@@ -30,21 +30,18 @@
 
 ---
 
-### 🌐 Connect with Me  
-<div align="center">  
-  <a href="https://www.github.com/charvi03" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/charvi-khurana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/charvikhurana01/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-  </a>
-  <a href="https://www.instagram.com/charvi.0_1/" target="_blank">
+### 🌐 **Socials**
+Let's connect!   
+<p align="center">
+  <a href="https://github.com/charvi03" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/charvi-khurana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://leetcode.com/u/charvikhurana01/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+</a>  <a href="https://www.instagram.com/charvi.0_1/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
   </a>
-</div>  
+</p>
+
+
 
 ---
 
